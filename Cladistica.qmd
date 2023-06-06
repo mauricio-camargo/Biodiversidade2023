@@ -2,7 +2,8 @@
 title: "Noções de sistemática"
 institute: "Prof. Maurício Garcia de Camargo"
 author: "Disciplina: Biodiversidade de Invertebrados Marinhos - IO-FURG"
-date: "`r Sys.Date()`" #Para funcionar tem que ter o `r Sys.Date()` em qualquer lugar do corpo (atualmente está no footer do primeiro slide)
+date: 2023-06-05
+#date: "`r Sys.Date()`" #Para funcionar tem que ter o `r Sys.Date()` em qualquer lugar do corpo (atualmente está no footer do primeiro slide)
 lang: pt-br
 #title-slide-attributes:
 #  data-background-color: "#6b5a59"

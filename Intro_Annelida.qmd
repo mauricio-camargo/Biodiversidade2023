@@ -2,7 +2,8 @@
 title: "Introdução aos Annelida"
 institute: "Prof. Maurício Garcia de Camargo"
 author: "Disciplina: Biodiversidade de Invertebrados Marinhos - IO-FURG"
-date: "`r Sys.Date()`" #Para funcionar tem que ter o `r Sys.Date()` em qualquer lugar do corpo (atualmente está no footer do primeiro slide)
+date: 2023-06-05
+#date: "`r Sys.Date()`" #Para funcionar tem que ter o `r Sys.Date()` em qualquer lugar do corpo (atualmente está no footer do primeiro slide)
 lang: pt-br
 title-slide-attributes:
   data-background-color: "#6b5a59"
@@ -32,6 +33,13 @@ format:
 
 ::: callout-note
 Para entender a importância do **metamerismo**, temos que saber o que é um organismo **celomado**.
+:::
+
+::: footer
+```{r}
+# Fake: serve só para que a data apareça no primeiro slide
+ss=Sys.Date()
+```
 :::
 
 ##  {background-color="#6b5a59"}

@@ -7,11 +7,6 @@ format:
     loop: true
 ---
 
-<!-- Tem que falar:
-- Maior diversidade morfológica dos animais
-- 
--->
-
 ## Gêneros de poliquetas com nomes de entidades femininas gregas:
 
 <br><br>
