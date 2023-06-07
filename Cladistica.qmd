@@ -370,7 +370,7 @@ Existe também a especiação *simpátrica*, (mesma pátria), que é um isolamen
 -   Autapomorfia: estado ancentral a partir de um nó que gerou uma plesiomorfia e uma sinapomorfia. 
 
 
-![](images/Apom_Plesiom.png){.r-stretch} <!--Isso aumenta um pouco a área da figura-->
+![](images/Apom_Plesiom.png)
 
 ## Exemplos de sinapomorfia:
 
