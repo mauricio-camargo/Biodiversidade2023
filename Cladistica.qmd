@@ -379,7 +379,9 @@ Existe também a especiação *simpátrica*, (mesma pátria), que é um isolamen
 -   A subclasse de insetos Pterygota é definida pela presença de asas. 
 -   A presença de parapódios em poliquetas é uma sinapomorfia da classe em relação a outros Annelida.
 
-## Resumo de cladística
+## Resumo de cladística {.smaller}
+
+<br>
 
 > - Baseia-se no padrão de ancestralidade comum e modificação das espécies e não em mera similaridade morfológica.
 -   Deve usar apenas caracteres derivados (apomórficos) compartilhados (sinapomórficos ou homólogos derivados).
