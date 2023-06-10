@@ -1,4 +1,4 @@
-# Biodiversidade2023
+# Biodiversidade de Invertebrados Marinhos - 2023
 
 Disicplina de gradução em Oceanologia da FURG
 
