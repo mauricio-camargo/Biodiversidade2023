@@ -1,5 +1,5 @@
 # Biodiversidade2023
 
-Disicplina de gradução na FURG
+Disicplina de gradução em Oceanologia da FURG
 
 https://mauricio-camargo.github.io/Biodiversidade2023/
