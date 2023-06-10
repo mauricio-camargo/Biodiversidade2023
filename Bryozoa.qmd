@@ -1,0 +1,31 @@
+---
+# ToDo
+# Aula rápida, tipo 15 minutos
+# Começar com a filogenia dos Bryozoa (Lophophorata)
+
+title: "Introdução aos Lophophorata"
+institute: "Prof. Maurício Garcia de Camargo"
+author: "Disciplina: Biodiversidade de Invertebrados Marinhos - IO-FURG"
+date: 2023-06-05
+#date: "`r Sys.Date()`" #Para funcionar tem que ter o `r Sys.Date()` em qualquer lugar do corpo (atualmente está no footer do primeiro slide)
+lang: pt-br
+title-slide-attributes:
+  data-background-color: "#6b5a59"
+format: 
+  revealjs:
+    #Veja outros temas em https://quarto.org/docs/presentations/revealjs/themes.html
+    theme: [serif, MeuCustom.scss]
+#    logo: images/furg4.png
+#    footer: "`Reprodutibilidade científica`"
+    slide-number: true
+    chalkboard: true #Muito bom para aula
+#    multiplex: false #Os alunos podem seguir com smartfone. ToDo.
+#    show-slide-number: all
+    controls: true #Não é menu. ToDo.
+#    css: [assets/sydney.css, assets/sydney-fonts.css]
+    #Sem estes css o :::box não funciona
+    css: [assets/syntax-highlight.css, assets/sydney.css, assets/custom.css, assets/sydney-fonts.css]
+---
+
+## Filo Lophophorata{.smaller}
+

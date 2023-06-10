@@ -2,7 +2,7 @@
 format: 
   revealjs: 
     theme: [serif, MeuCustom.scss]
-    controls: true #Não é menu. ToDo.
+    controls: false #Não é menu. ToDo.
     auto-slide: 4000
     loop: true
 ---
@@ -26,16 +26,9 @@ Nereida
 :::
 :::: 
 
-
-
 ## 
 
 ![](images/Alitta-virens-4.jpeg)
-
-##
-
-![](images/Alitta-virens-4.jpeg)
-
 
 ##
 

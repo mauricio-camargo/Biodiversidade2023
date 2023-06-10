@@ -1,16 +1,15 @@
 ---
 #Token do Git 
 #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
-
+title: Diversidade de invertebrados marinhos
+subtitle: Prof. Mauricio Camargo
 format: html
 ---
 
-## Link para as aulas
+## Links para os slides das aulas
 
-Noções de Sistemática e Cladística  
+[Noções de Sistemática e cladística](Cladistica.html)
 
-![](Cladistica.html)
+[Introdução aos anelídeos](Intro_Annelida.html)  
 
-![](Intro_Annelida.html)  
-
-![](Lindos_Poliquetas.html)
+[Como são lindos os poliquetas](Lindos_Poliquetas.html)
