@@ -2,8 +2,9 @@
 format: 
   revealjs: 
     theme: [serif, MeuCustom.scss]
+    menu: false
     controls: false #Não é menu. ToDo.
-    auto-slide: 4000
+    auto-slide: 3000
     loop: true
 ---
 
