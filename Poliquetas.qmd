@@ -38,6 +38,8 @@ editor:
 
 ## Notas sobre a filogenia dos Metazoa {.scrollable .smaller}
 
+::: {.incremental}
+
 -   Esta árvore é bastante recente (2020).\
 -   `Ctenophora` e `Porifera` não são eumetazoa, e junto com `Placozoa`
     e `Cnidaria`, não tem simetria bilateral.
@@ -54,7 +56,8 @@ editor:
     (Annelida, Mollusca) ou lofóforo (Bryozoa).
 -   `Lophophorata` reúne os filos com lofóforo, que é uma estrutura em
     forma de anel ao redor da boca que serve para alimentação.
--   
+
+:::
 
 <br>
 
@@ -105,14 +108,13 @@ ressucitada.
 <br>
 
 ::: {layout="[[1,1], [1,1]]"}
-Biologia molecular revelou que Clitellata (Oligochaeta e Hirudines) são
-derivados da classe Polychaeta.
+
+Biologia molecular revelou que Clitellata (Oligochaeta e Hirudines) são derivados da classe Polychaeta.
 
 ![](images/FiloAnnelida2.png)
 :::
 
-A sinapomorfia dos poliquetas são os `parapódios`, de posteriormente foi
-perdida nos Clitellata.
+A sinapomorfia dos poliquetas são os `parapódios`, de posteriormente foi perdida nos Clitellata.
 
 ## 
 
@@ -120,9 +122,11 @@ perdida nos Clitellata.
 <br><br> Classe Polychaeta
 :::
 
-## Características de Polychaeta {.smaller .scrollable}
+## Características e importância de Polychaeta {.smaller .scrollable}
 
--   *Poly* = muito ; *Chaeta* = Cerdas.
+::: {.incremental}
+
+-   *Poly* = muito ; *Chaeta* = Cerdas. 
 -   Em português é poliqueta, masculino. Em espanhol é poliqueto.
 -   Sinapomorfia de Polychaeta: `Parapódios` (há 500 milhões de anos!).
 -   Enorme sucesso em ambientes marinhos bênticos. Poucos pelágicos.
@@ -133,7 +137,14 @@ perdida nos Clitellata.
 -   Muitas espécies vivem em "fumarolas" (Hydrothermal vents ou chaminés
     hidrotermais) com temperaturas maiores que 65^o^C.
 -   Outras espécies vivem em infiltrações frias (Cold seeps).
--   Poliquetas são numericamente dominante em muitos ambientes.
+
+:::
+
+## Características e importância de Polychaeta {.smaller .scrollable}
+
+::: {.incremental}
+
+-   Poliquetas são numericamente dominante em muitos ambientes, chegando a 75% da produção secundária de muitos ambientes.
 -   Modo de vida livre (exceto Spionidae em ostras)
 -   Vivem isolados, exceto alguns Serpulida que são coloniais e
     constroem estruturas conhecidas como recifes de areia.
@@ -142,6 +153,13 @@ perdida nos Clitellata.
     entre os invertebrados.
 -   Poliquetas são cultivados para alimentação em aquicultura em
     sistemas extensivos e semi-extensivos.
+
+:::
+
+## Características e importância de Polychaeta {.smaller .scrollable}
+
+::: {.incremental}
+
 -   Algumas espécies são usadas como iscas comerciais para pesca.
 -   Poliquetas bioincrustantes em madeira e conchas de bivalves de
     cultivo podem causar prejuízos.
@@ -149,29 +167,31 @@ perdida nos Clitellata.
 -   Papel funcional semelhante ao dos oligoquetas no ambiente terreste:
     -   Estabilização do sedimento;
     -   Aeração das camadas mais profundas do sedimento.
-    -   Servem de alimento para peixes e invertebrados, principalmente
-        nas fases juvenis.
+    -   Servem de alimento para peixes e invertebrados, principalmente  nas fases juvenis.
 
-##  {.scrollable}
+:::
+
+##  Variedade da estrutura corporal dos poliquetas {.scrollable .smaller}
 
 ::: {layout="[[1,1,1], [1,1,1], [1,1,1]]"}
 ![](images/Alitta-virens-4.jpeg)
 
 ![](images/Branchiomma_arctica_1-combined.jpeg)
 
-![](images/hpwo292.jpg)
+![](images/hpwo292.jpg){width="220"}
 
-![](images/Myxicola_sp2.jpeg)
+![](images/Myxicola_sp2.jpeg){width="250"}
 
-![](images/Polynoidae_unidentified.jpeg)
+![](images/Polynoidae_unidentified.jpeg){width="250"}
 
-![](images/Pterosyllis_finmarchica-1.jpeg)
+![](images/Pterosyllis_finmarchica-1.jpeg){width="250"}
 
-![](images/Serpula-uschakovi-4.jpeg)
+![](images/Serpula-uschakovi-4.jpeg){width="250"}
 
-![](images/Syllidae_unidentified.jpeg)
+![](images/Syllidae_unidentified.jpeg){width="220"}
 
-![](images/Terebellidae-Unidentified-combined.jpeg)
+![](images/Terebellidae-Unidentified-combined.jpeg){width="250"}
+
 :::
 
 ## Morfologia externa
@@ -182,6 +202,8 @@ perdida nos Clitellata.
 
 <br>
 
+::: {.incremental}
+
 -   `Prostômio` = "cabeça", onde estão os olhos, as antenas e os palpos.
 -   `Peristômio` = primeiro segmento, de onde saem os cirros
     tentaculáres.
@@ -189,6 +211,8 @@ perdida nos Clitellata.
 -   `cerdas` = setas de diversos tipos
 -   `Pigídio` = último segmento, contendo o cirro pigidial.
 -   `Brânquias` presentes nos parapódios ou prostômio.
+
+:::
 
 ## Prostômio e peristômio {.smaller .scrollable}
 
@@ -387,6 +411,14 @@ Filme sobre a movimentação de um Nereididae.
 <br>
 
 <https://www.youtube.com/watch?v=OG86cdFQ3ZA>
+
+<br>
+
+Filme sobre o plano corporal dos poliquetas errantes
+
+<br>
+
+<https://www.youtube.com/watch?v=Ja6M16bdmNw>
 
 
 ## Aspectos da reprodução dos Polychaeta {.smaller}
