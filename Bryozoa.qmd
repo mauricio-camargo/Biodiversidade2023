@@ -3,7 +3,7 @@
 # Aula rápida, tipo 15 minutos
 # Começar com a filogenia dos Bryozoa (Lophophorata)
 
-title: "Introdução aos Lophophorata"
+title: "Introdução aos Bryozoa (Lophophorata)"
 institute: "Prof. Maurício Garcia de Camargo"
 author: "Disciplina: Biodiversidade de Invertebrados Marinhos - IO-FURG"
 date: 2023-06-12

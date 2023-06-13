@@ -14,5 +14,4 @@ format: html
 
 [Introdução aos poliquetas](Poliquetas.html)
 
-[Introdução aos Bryozoa](Bryozoa.html)
-
+[Introdução aos Bryozoa (Lophophorata)](Bryozoa.html)
