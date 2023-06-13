@@ -1,12 +1,8 @@
 ---
-#Token do Git 
-#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
-
 title: Diversidade de invertebrados marinhos
 subtitle: Prof. Mauricio Camargo
 format: html
 ---
-
 
 ## Links para os slides das aulas
 
@@ -18,3 +14,4 @@ format: html
 
 [Introdução aos poliquetas](Poliquetas.html)
 
+[Introdução aos poliquetas](Bryozoa.html)
