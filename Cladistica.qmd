@@ -30,7 +30,7 @@ format:
 :::{.notes}
 1. Perguntar bastante sobre taxonomia, sem passar os slides.   
 2. Começar: tem livros de sistemática, até em pt.
-3. Taxonomia sempre foi um bicho-papão para os Oceanógrafos (rivalidade com os Biólogos).  c
+3. Taxonomia sempre foi um bicho-papão para os Oceanógrafos (rivalidade com os Biólogos).  
 4. Taxonomia não é apenas a parte chata da história.
 :::
 
